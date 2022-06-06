@@ -1,0 +1,6 @@
+[submodule "hashlips_art_engine"]
+	path = hashlips_art_engine
+	url = https://github.com/HashLips/hashlips_art_engine.git
+[submodule "nft-erc721-collection"]
+	path = nft-erc721-collection
+	url = https://github.com/hashlips-lab/nft-erc721-collection.git
